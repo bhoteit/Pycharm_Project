@@ -33,11 +33,10 @@ else:
 ░╚════╝░╚═════╝░╚═╝╚═╝░░╚══╝░░░╚═╝░░░
 
 
-Usage: osint-spy.py [options]
+Usage: OSINT-Main.py [options]
             Options:
             -h,            --help 
              --email                                  Obtenir des renseignement sur un adresse mail 
-             --json                                   Afficher les sorties JSON
               --domain                                Obtenir des renseignements sur un nom de domaine   
 
 
